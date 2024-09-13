@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,453;1,453&display=swap');
+
+body {
+  background: #e0e0e0;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.navbar {
+    background: #fff !important;
+  }
+.menu-logo{
+  height: 30px;
+}
+.nav-link {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 17px;
+  font-weight: weight;
+  font-style: normal;
+  margin-right: 1px;
+}
+.nav-link:hover {
+  color: #00BF63 !important;
+} 
+.nav-item .active {
+  color: #00BF63 !important;
+} 
+.anasayfa-slogan1 {
+  margin-top: 100px;
+}
+
+.yesil-yazi {
+  color:#00BF63;
+}
+.lacivert-yazi {
+  color:#182033;
+}
+
+.endeksTablo {
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.baslikBorderBottom {
+  border-bottom: 5px solid #00BF63;
+}
+.sidebar {
+    padding: 25px;
+    background: rgba(255, 255, 255, 1);
+    border-radius: 0px;
+}
+
+.iletisimSayfasiTelegram {
+  font-size: 22px !important;
+  
+}
+.iletisimSayfasiTelegramYazisi {
+  font-size: 22px !important;
+  font-family: "Montserrat", sans-serif ;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+
+
+.banner {
+  background-color: transparent;
+}
+
+.hisseSorgulaLink {
+  text-decoration: none;
+  color: #00BF63;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .inputs{
+    position: relative;
+
+   }
+
+   .form-control{
+    text-indent: 15px;
+    border-radius: 20px !important;
+    text-transform: uppercase;
+    height: 45px;
+    border-radius: 0px;
+    border-bottom: 1px solid #eee;
+    border-bottom: 2px solid #00BF63;
+
+   }
+
+   .form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #eee;
+    outline: 0;
+    box-shadow: none;
+    border-bottom: 3px solid #00BF63;
+}
+
+
+.form-control:focus  {
+    color: #00BF63;
+}
+
+
+   .inputAraSimge {
+    position: absolute !important;
+    top: 14px !important;
+    left: 4px !important;
+    color: #00BF63 !important;
+   }
+
+   .star{
+
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #eee;
+    margin-right: 10px;
+    border-radius: 5px;
+
+   }
+
+   .time-text{
+
+        font-size: 12px;
+        color: #989898;
+   }
+
+   .dots{
+
+    height: 7px;
+    width: 7px;
+    background-color: #eee;
+    display: flex;
+    border-radius: 50%;
+    margin-left:7px;
+    margin-right: 7px;
+   }
+
+   .yellow{
+
+    color: #ffab2e;
+   }
+
+   .content-text-1{
+
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: #ffe7cc;
+    color: #ffa03a;
+    font-weight: 700;
+
+   }
+
+
+   .blue{
+
+    color: #6ecce6;
+   }
+
+
+   .content-text-2{
+
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: #e2f5fa;
+    color: #6ecce6;
+    font-weight: 700;
+
+   }
+
+
+   .dark-blue{
+
+    color: #572ce8;
+   }
+
+
+   .content-text-3{
+
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color:#572ce86b;
+    color: #572ce8;
+    font-weight: 700;
+
+   }
+
+  

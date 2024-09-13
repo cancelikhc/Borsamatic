@@ -1,0 +1,26 @@
+
+ 
+ #countries {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border-radius: 50px !important;
+ }
+ 
+ #countries li {
+    padding: 10px; 
+    background: #FFF;
+    border-bottom: #F0F0F0 1px solid;
+    border-radius: 0px !important;
+ }
+ 
+ #countries li:hover {
+    background:#F0F0F0;
+    cursor: pointer;
+    cursor: hand;
+ }
+ 
+ #country {
+    padding: 10px;
+    border-radius: 50px !important;
+ }
